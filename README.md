@@ -8,10 +8,15 @@ English Tuto
 1. ✨ Features
 
 💬 /dmall <message> command – sends a direct message to all members who opted in with a specific role.
+
 🚫 Filtering – excludes bots from receiving messages.
+
 ⏳ Rate limiting – configurable delay between each message sent.
+
 🔒 Access restrictions – only administrators (or members with a defined role) can use the command.
+
 📊 Report – shows the number of successful deliveries and failures.
+
 
 2. 🛠️ Configuration
 
