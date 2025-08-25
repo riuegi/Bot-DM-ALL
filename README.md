@@ -34,9 +34,13 @@ Tuto Français
 1. ✨ Fonctionnalités
 
 💬 Commande /dmall <message> – envoie un message privé à tous les membres ayant choisi le rôle opt-in.
+
 🚫 Filtrage – les bots ne reçoivent pas de message.
+
 ⏳ Limitation de débit – pause configurable entre chaque envoi.
+
 🔒 Restrictions d’accès – seule une personne avec les droits administrateur (ou un rôle défini) peut utiliser la commande.
+
 📊 Rapport – affiche le nombre de messages envoyés avec succès et les échecs.
 
 2. 🛠️ Configuration
